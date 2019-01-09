@@ -12,6 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Collaborator.lvlib" Type="Library" URL="../Collaborator/Collaborator.lvlib"/>
+		<Item Name="Command Configuration.ctl" Type="VI" URL="../Collaborator/Command Configuration.ctl"/>
 		<Item Name="Submit Query.vi" Type="VI" URL="../Submit Query.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
