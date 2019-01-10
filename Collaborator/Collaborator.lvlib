@@ -8,7 +8,7 @@
 
 </Property>
 	<Item Name="Test VIs" Type="Folder">
-		<Item Name="Create Review Test.vi" Type="VI" URL="../Tests/Create Review Test.vi"/>
+		<Item Name="Add File Test.vi" Type="VI" URL="../Tests/Add File Test.vi"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Command Configuration.ctl" Type="VI" URL="../Command Configuration.ctl"/>
